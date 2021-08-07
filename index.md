@@ -19,7 +19,6 @@ permalink: /
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#education">Ausbildung</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Nebenjobs</a></li>
-              <li class="nav-item"><a class="nav-link smooth-scroll" href="#voluntary">Ehrenamt</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#hobbies">Hobbies</a></li>
               <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Kontakt</a></li>
               <!--  TODO: Seite übersetzen
@@ -134,33 +133,34 @@ permalink: /
           <div class="h4 text-center mb-4 title">Skills</div>
           <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
             <div class="card-body">
+            <div class="h6 mb-4 text-center">Programmiersprachen</div>
               <div class="row">
                 <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">MS(Excel/Word/Power Point)</span>
+                  <div class="progress-container progress-primary"><span class="progress-badge">Ruby</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 90%;"></div><span class="progress-value">90%</span>
+                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">Profi</span>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">MATLAB/Simulink</span>
+                  <div class="progress-container progress-primary"><span class="progress-badge">Java</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+                        aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">Fortgeschritten</span>
                     </div>
                   </div>
                 </div>               
               </div>
               <div class="row">
                 <div class="col-md-6">
-                  <div class="progress-container progress-primary"><span class="progress-badge">Java/SQL</span>
+                  <div class="progress-container progress-primary"><span class="progress-badge">SQL</span>
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50%</span>
+                        aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">Fortgeschritten</span>
                     </div>
                   </div>
                 </div>
@@ -169,7 +169,129 @@ permalink: /
                     <div class="progress">
                       <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
                         data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
-                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
+                        aria-valuemax="100" style="width: 25%;"></div><span class="progress-value">Grundlagen</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">Profi</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">Fortgeschritten</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Javascript</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">Fortgeschritten</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Python</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 25%;"></div><span class="progress-value">Grundlagen</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="h6 my-4 text-center">Frameworks</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Ruby on Rails</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">Profi</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">React/React Native</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 30%;"></div><span class="progress-value">Grundlagen</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="h6 my-4 text-center">Versionsverwaltung / Software</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Git / Github</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 85%;"></div><span class="progress-value">Profi</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Visual Studio Code</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 100%;"></div><span class="progress-value">Meister</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Eclipse</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">Profi</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">IntelliJ</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 100%;"></div><span class="progress-value">Meister</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Docker</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">Fortgeschritten</span>
+                    </div>
+                  </div>
+                </div>
+                 <div class="col-md-6">
+                  <div class="progress-container progress-primary"><span class="progress-badge">Pentaho Data Integration</span>
+                    <div class="progress">
+                      <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
+                        data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0"
+                        aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">Fortgeschritten</span>
                     </div>
                   </div>
                 </div>
@@ -241,27 +363,6 @@ permalink: /
                 <div class="card-body">
                   <div class="h5">Aushilfe</div>
                   <p>Während meines Studiums der Strahlenmedizintechnik habe ich erste Erfahrungen im Arbeitsalltag als Aushilfe im Büro sammeln können. Zu meinen Aufgaben dort gehörte das Organisieren der Schuldaten am Computer und Unterstützung bei der Vorbereitung der Prüfungen und Veranstaltungen.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="section" id="voluntary">
-        <div class="container cc-experience">
-          <div class="h4 text-center mb-4 title">Ehrenamt</div>
-          <div class="card">
-            <div class="row">
-              <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body cc-experience-header">
-                  <p>2019 - Heute</p>
-                  <div class="h5">Senat, Fachschaft</div>
-                </div>
-              </div>
-              <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-                <div class="card-body">
-                  <div class="h5">Hochschulpolitik</div>
-                  <p>Neben meinem Studium an der Fachhochschule Dortmund interessiere ich mich auch für die dortige Hochschulpolitik und das Organisieren studentischer Projekte. Deshalb engagiere ich mich seit 2019 ehrenamtlich im Senat, in der Fachschaft meines Fachbereiches und dem Frauenprojektlabor der Fachhochschule Dortmund. </p>
                 </div>
               </div>
             </div>
